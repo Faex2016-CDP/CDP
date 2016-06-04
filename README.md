@@ -1,5 +1,4 @@
-# CDP
-Clube de programação
+# Clube de programação
 
 Faculdade de Ciências Sociais Aplicadas de Extrema  
 Análise e Desenvolvimento de Sistemas  
