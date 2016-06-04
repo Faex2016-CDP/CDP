@@ -1,9 +1,14 @@
 # Clube de programação
 
-Faculdade de Ciências Sociais Aplicadas de Extrema  
-Análise e Desenvolvimento de Sistemas  
+Nesse repositório ficara todas informações do Clube de programação, horários, assuntos, sugestões e etc.
+
+[Faculdade de Ciências Sociais Aplicadas de Extrema](http://www.faex.edu.br/)  
+[Análise e Desenvolvimento de Sistemas](http://www.faex.edu.br/graduacao/12/analise_e_desenvolvimento_de_sistemas)  
 Turma 2016.1  
 Fundador: [Nathan Almeida de Carvalho Alves](https://github.com/Neitan96)  
 Email para contato: [nathanalmeidadev@outlook.com](nathanalmeidadev@outlook.com)  
 
-Nesse repositório ficara todas informações do Clube de programação, horários, assuntos, sugestões e etc.
+“*Todas as pessoas deveriam aprender a programar computadores, porque isso ensina a pensar*” - Steve Jobs  
+
+#### Objetivo
+Aprender na pratica como programar, discutindo, compartilhando e apoiando quem deseja e/ou precisa entender.
