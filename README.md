@@ -11,10 +11,11 @@ Email para contato: [nathanalmeidadev@outlook.com](mailto:nathanalmeidadev@outlo
 “*Todas as pessoas deveriam aprender a programar computadores, porque isso ensina a pensar*” - Steve Jobs  
 
 #### Objetivo
-Aprender na pratica como programar, discutindo, compartilhando e apoiando quem deseja e/ou precisa entender e se tonar alguém capaz de aprender novos assuntos de programação sozinhos.
+Aprender na pratica como programar, discutindo, compartilhando e apoiando quem deseja e/ou precisa entender e se tonar alguém capaz de aprender novos assuntos de programação sozinho.
 
 #### Index
 * [Calendário](Calendario.md)
 * [Metodologia](Metodologia.md)
 * [Estudos](Estudos.md)
 * [Projetos](Projetos.md)
+* [Lista de presença](Lista%20de%20presenca/)
