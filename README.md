@@ -6,7 +6,7 @@ Nesse repositório ficara todas informações do Clube de programação, horári
 [Análise e Desenvolvimento de Sistemas](http://www.faex.edu.br/graduacao/12/analise_e_desenvolvimento_de_sistemas)  
 Turma 2016.1  
 Fundador: [Nathan Almeida de Carvalho Alves](https://github.com/Neitan96)  
-Email para contato: [nathanalmeidadev@outlook.com](nathanalmeidadev@outlook.com)  
+Email para contato: [nathanalmeidadev@outlook.com](mailto:nathanalmeidadev@outlook.com)  
 
 “*Todas as pessoas deveriam aprender a programar computadores, porque isso ensina a pensar*” - Steve Jobs  
 
