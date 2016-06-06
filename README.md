@@ -20,4 +20,3 @@ Aprender na pratica como programar, discutindo, compartilhando e apoiando quem d
 * [Metodologia](Metodologia.md)
 * [Projetos](Projetos.md)
 * [Estudos](Estudos.md)
-* [Lista de presença](Lista%20de%20presenca/)
